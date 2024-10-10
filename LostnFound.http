@@ -1,0 +1,6 @@
+@LostnFound_HostAddress = http://localhost:5271
+
+GET {{LostnFound_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
